@@ -47,6 +47,7 @@ movies: Movie[] = [
   {title: 'Pulp Fiction', director: 'Quentin Tarantino', genre: 'Crime', releaseYear: 1994, rating: 8.9, creationDate: '2024-05-05'},
 ];
 
+  // sortField: string = 'creationDate';
   sortField: string = '';
   sortDirection: string = 'asc';
 
